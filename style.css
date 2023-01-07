@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins',sans-serif;
+}
+#header{
+    width: 1600px;
+    height: 808px;
+    background-image: url(images/banner/banner3.png);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+
+}
+.banner{
+    text-align: right;
+    margin-right: 245px;
+    gap: 24px;
+    margin-top: 20px;
+    
+    
+}
+.heading{
+    padding-top: 200px;
+    padding-left: 832px;
+    color: azure;
+}
+.heading-text{
+    font-weight: 700;
+    font-size: 65px;
+    line-height: 76px;
+    width: 525px;
+    height: 228px;
+}
+.btn-primary{
+    width: 138px;
+    height: 58px;
+    margin-top: 15px;
+    border-radius: 5px;
+    border-style: none;
+    color: #005FAC;
+    font-weight: 600;
+    font-size:20px;
+}
+/* -------failer description------------- */
+#failer{
+    padding-left: 206px;
+    padding-right: 232px;
+    padding-top: 131px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+}
+.failer-description{
+    width: 400px;
+    height: 400px;
+    margin-top: 230px;
+    padding-top: 10px;
+}
+ul{
+    list-style-type: none;
+    padding-top: 10px;
+}
+.failer-paragraph{
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-top: 15px;
+}
+.failer-text{
+    font-weight: 700;
+    font-size: 40px;
+    padding-bottom: 10px;
+}
