@@ -86,8 +86,8 @@ ul{
     justify-content: space-around;
     text-align:center ;
     margin-top: 80px;
-    padding-left: 238px;
-    padding-right: 221px;
+    padding-left: 212px;
+    padding-right: 212px;
 }
 /* ------------------add image style------------------- */
 .add-image{
@@ -106,8 +106,66 @@ ul{
     background-repeat: no-repeat;
     width:1140px;
     height: 300px;
-    margin-left: 230px;
-    margin-right: 230px;
+    margin-left: 220px;
+    margin-right: 220px;
     margin-top: 130px;
     border-radius: 8px;
+}
+/* -----------------------footer style------------------- */
+#contact{
+    width: 1600px;
+    height: 577px;
+    margin-top: 130px;
+    background-color: black;
+}
+.contact-templet{
+    color: white;
+    display: flex;
+    margin-left: 230px;
+    margin-right: 230px;
+    justify-content: space-around;
+}
+.contact-left{
+    margin-top: 112px;
+    margin-right: 230px;
+}
+.contact-title{
+    font-weight: 700;
+    font-size: 48px;
+    padding: 10px;
+}
+.contact-left p{
+    margin-top: 30px;
+    font-weight: 400px;
+    font-size: 15px;
+    padding: 10px;
+}
+.social-icon{
+    margin-top: 30px;
+}
+.social-icon a{
+    font-size: 30px;
+    margin-right: 15px;
+}
+.contact-right{
+    margin-top: 130px;
+    margin-right: 142px;
+}
+.contact-right input{
+    border-radius: 5px;
+    width: 336px;
+    height: 52px;
+    padding-left: 15px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.btn{
+    width: 138px;
+    height: 58px;
+    border-radius: 5px;
+    border-style: none;
+    color: #f7f8f9;
+    font-weight: 600;
+    font-size:20px;
+    background: #005FAC;
 }
