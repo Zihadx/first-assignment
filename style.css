@@ -73,3 +73,19 @@ ul{
     font-size: 40px;
     padding-bottom: 10px;
 }
+/* -------------my plan------------- */
+
+.list-heading{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 80px;
+}
+.total-plan{
+    display: flex;
+    justify-content: space-around;
+    text-align:center ;
+    margin-top: 80px;
+    padding-left: 238px;
+    padding-right: 221px;
+}
